@@ -1,6 +1,6 @@
 # Color Changing App
 
-## Changes a bunch of colors in order
+Changes a bunch of colors in order
 
 ## Author
 
